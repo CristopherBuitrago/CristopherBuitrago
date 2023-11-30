@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **pandeabono2@gmail.com**
+- 📫 How to reach me **crisdaniel.buigo0907@gmail.com**
 
 - ⚡ Fun fact **I think i am seriusl**
 
