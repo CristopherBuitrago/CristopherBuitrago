@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **crisdaniel.buigo0907@gmail.com**
+- 📫 How to reach me **cristopherBuitrago0907@gmail.com**
 
-- ⚡ Fun fact **I think i am seriusl**
+- ⚡ Fun fact **I think i am seriusly person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
