@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Campuslands**
 
-- 🌱 I’m currently learning **Campuslands**
+- 🌱 I’m currently learning **Java and MySQL**
 
 - 👯 I’m looking to collaborate on **Codings**
 
-- 🤝 I’m looking for help with **Coding**
+- 🤝 I’m looking for help with **investors**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Javascript, Html, Css, MySQL and Python**
 
 - 📫 How to reach me **cristopherBuitrago0907@gmail.com**
 
