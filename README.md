@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cristopher Buitrago</h1>
+<h1 align="center"
+>Hi 👋, I'm Cristopher Buitrago</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
 
@@ -12,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, Html, Css, MySQL and Python**
 
-- 📫 How to reach me **cristopherBuitrago0907@gmail.com**
+- 📫 How to reach me **cristopherbuitrago0907@gmail.com**
 
 - ⚡ Fun fact **I think i am seriusly person**
 
