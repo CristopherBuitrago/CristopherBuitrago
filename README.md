@@ -1,26 +1,41 @@
-<h1 align="center"
->Hi 👋, I'm Cristopher Buitrago</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+# Hi 👋, I'm Cristopher Buitrago
 
+## A passionate backend developer from Colombia
+
+### 🌟 About Me
 
 - 🔭 I’m currently working on **Campuslands**
-
 - 🌱 I’m currently learning **Java and MySQL**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 🤝 I’m looking for help with **finding investors**
+- 💬 Ask me about **MySQL, Python, Javascript, HTML and CSS**
 
-- 👯 I’m looking to collaborate on **Codings**
+### 📫 How to Reach Me
 
-- 🤝 I’m looking for help with **investors**
+- **Email:** [cristopherbuitrago0907@gmail.com](mailto:cristopherbuitrago0907@gmail.com)
 
-- 💬 Ask me about **Javascript, Html, Css, MySQL and Python**
+## 🏆 GitHub Trophies
 
-- 📫 How to reach me **cristopherbuitrago0907@gmail.com**
+![Trophies](https://github-profile-trophy.vercel.app/?username=CristopherBuitrago&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
-- ⚡ Fun fact **I think i am seriusly person**
+## Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-buitrago-04721230a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristopherBuitrago)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Languages and Tools
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+
+![Cristopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristopherBuitrago&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherBuitrago&layout=compact&theme=radical)
