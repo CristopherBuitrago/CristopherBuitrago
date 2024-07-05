@@ -1,41 +1,73 @@
-# Hi 👋, I'm Cristopher Buitrago
+```
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-## A passionate backend developer from Colombia
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+universe!+👋;+I'm+Cristopher+Buitrago!;" />
+</h1>
 
-### 🌟 About Me
+<h3 align="center">A passionate backend developer from Colombia 🇨🇴</h3>
 
-- 🔭 I’m currently working on **Campuslands**
-- 🌱 I’m currently learning **Java and MySQL**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 🤝 I’m looking for help with **finding investors**
-- 💬 Ask me about **MySQL, Python, Javascript, HTML and CSS**
+<br/>
 
-### 📫 How to Reach Me
+<div align="center">
+ 
+ 🔭 I’m currently working on **a ...**
+ 
+ 🌱 I’m currently learning **Java, Spring Boot, AWS**
 
-- **Email:** [cristopherbuitrago0907@gmail.com](mailto:cristopherbuitrago0907@gmail.com)
+💬 Ask me about **MySQL, Java, JavaScript, Html and Css [here](https://github.com/CristopherBuitrago)**
 
-## 🏆 GitHub Trophies
+⚡ Fun fact **Luck is what happens when opportunity meets preparation**
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CristopherBuitrago&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:cristopherbuitrago0907@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/cristopher-buitrago-02b908304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5? style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://portfolio.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## Connect with Me
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql,spring,flutter" /><br>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-buitrago-04721230a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristopherBuitrago)
+<br/>
+<hr/>
 
-## Languages and Tools
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="a Python snake is eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<hr/>
 
-## 📊 GitHub Stats
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=danielnavasbecerra&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=danielnavasbecerra&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CristopherBuitrago&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-![Cristopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristopherBuitrago&show_icons=true&theme=radical)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherBuitrago&layout=compact&theme=radical)
+<hr/>
+
+<br/>
+
+```
