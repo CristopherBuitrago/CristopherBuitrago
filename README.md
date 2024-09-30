@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **freelance**
  
- 🌱 I’m currently learning **Java, Spring Boot, AWS**
+ 🌱 I’m currently learning **PHP**
 
-💬 Ask me about **MySQL, Java, JavaScript, Html and Css [here](https://github.com/CristopherBuitrago)**
+💬 Ask me about **Java, Springboot, html and css [here](https://github.com/CristopherBuitrago)**
 
 ⚡ Fun fact **Luck is what happens when opportunity meets preparation**
 
