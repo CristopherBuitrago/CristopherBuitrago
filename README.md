@@ -38,8 +38,17 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,spring" /><br>
+    <h3>Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,figma" />
+    <h3>Backend</h3>
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,nodejs" /><br>
+    <h3>Database</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br>
+    <h3>Version Control</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" /><br>
+    <h3>Enviorenment</h3>
+    <img src="https://skillicons.dev/icons?i=vscode" /><br>
+        
 </div>
 
 <br/>
