@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **freelance**
+🔭 I’m currently working on **freelance**
  
- 🌱 I’m currently learning **PHP**
+🌱 I’m currently learning **Vue.js**
 
-💬 Ask me about **Java, Springboot, html and css [here](https://github.com/CristopherBuitrago)**
+💬 Ask me about **Java, Springboot, Php and Laravel [here](https://github.com/CristopherBuitrago)**
 
 ⚡ Fun fact **Luck is what happens when opportunity meets preparation**
 
