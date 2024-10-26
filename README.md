@@ -41,7 +41,7 @@
     <h3>Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,bootstrap,figma" />
     <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel" /><br>
     <h3>Database</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br>
     <h3>Version Control</h3>
