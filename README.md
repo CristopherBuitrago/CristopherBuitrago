@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind,bootstrap,figma" />
     <h3>Backend</h3>
     <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,javascript,nodejs" /><br>
     <h3>Database</h3>
