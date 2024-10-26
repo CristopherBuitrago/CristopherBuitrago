@@ -45,7 +45,7 @@
     <h3>Database</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br>
     <h3>Version Control</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github" /><br>
     <h3>Enviorenment</h3>
     <img src="https://skillicons.dev/icons?i=vscode" /><br>
         
