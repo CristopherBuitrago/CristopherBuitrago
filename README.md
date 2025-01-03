@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on **freelance**
+🔭 I’m currently working on **Company**
  
-🌱 I’m currently learning **Vue.js**
+🌱 I’m currently learning **C#**
 
 💬 Ask me about **Java, Springboot, Php and Laravel [here](https://github.com/CristopherBuitrago)**
 
