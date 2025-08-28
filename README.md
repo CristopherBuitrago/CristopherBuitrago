@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+universe!+👋;I'm+Cristopher+Buitrago!;Fullstack+Developer+from+Colombia+🇨🇴" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Fullstack dev enfocado en backend, automatización y arquitectura moderna</h3>
+<h3 align="center">Backend dev enfocado en automatización y arquitectura moderna</h3>
 
 <br/>
 
